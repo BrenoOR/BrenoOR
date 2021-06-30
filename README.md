@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @BrenoOR and this greeting is not completed.
-
-<!---
-BrenoOR/BrenoOR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hello, and welcome to my GitHub profile!
+---
+#### Q&A:
+* Who am I?
+  * I'm Breno
+* How old am I?
+  * I'm 23
+* What do I do?
+  * I study computer science at CIn - UFPE
+  * I also am a developer at Maracatronics Robotic Team
